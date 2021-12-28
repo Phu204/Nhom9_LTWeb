@@ -1,0 +1,26 @@
+ .hinhdaidien {
+    width: 70px;
+    height: 50%;
+}
+.product-img{
+    height: 50px;
+    width: 50%;
+}
+.page-title{
+    font-family: 'calibri';
+    font-weight: 600;
+    font-size: 30px;
+}.page-header{
+    margin-top: 35px;
+}.btn-add-product{
+    background-color: #5b47fb;
+    border-radius: 20%;
+}
+.fa{
+    color: white;
+}
+.col-auto.text-right .img-reaction img{
+    width: 30px;
+    height: 30px;
+}
+
